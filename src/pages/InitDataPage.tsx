@@ -88,7 +88,7 @@ export const InitDataPage: FC = () => {
     return (
       <Page>
         <Placeholder
-          header="Oops"
+          header="Упс"
           description="Application was launched with missing init data"
         >
           <img
